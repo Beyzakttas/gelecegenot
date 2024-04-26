@@ -1,0 +1,11 @@
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\GELECEGE_NOTLAR\GELECEGE_NOTLAR\bin\Debug\GELECEGE_NOTLAR.exe.config
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\GELECEGE_NOTLAR\GELECEGE_NOTLAR\bin\Debug\GELECEGE_NOTLAR.exe
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\GELECEGE_NOTLAR\GELECEGE_NOTLAR\bin\Debug\GELECEGE_NOTLAR.pdb
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\GELECEGE_NOTLAR\GELECEGE_NOTLAR\obj\Debug\GELECEGE_NOTLAR.csproj.AssemblyReference.cache
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\GELECEGE_NOTLAR\GELECEGE_NOTLAR\obj\Debug\GELECEGE_NOTLAR.Form1.resources
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\GELECEGE_NOTLAR\GELECEGE_NOTLAR\obj\Debug\GELECEGE_NOTLAR.Properties.Resources.resources
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\GELECEGE_NOTLAR\GELECEGE_NOTLAR\obj\Debug\GELECEGE_NOTLAR.csproj.GenerateResource.cache
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\GELECEGE_NOTLAR\GELECEGE_NOTLAR\obj\Debug\GELECEGE_NOTLAR.csproj.CoreCompileInputs.cache
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\GELECEGE_NOTLAR\GELECEGE_NOTLAR\obj\Debug\GELECEGE_NOTLAR.exe
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\GELECEGE_NOTLAR\GELECEGE_NOTLAR\obj\Debug\GELECEGE_NOTLAR.pdb
+C:\Users\beyza aktas\OneDrive\Belgeler\C#\C# DERSLERİ\GELECEGE_NOTLAR\GELECEGE_NOTLAR\obj\Debug\GELECEGE_NOTLAR.Form2.resources
